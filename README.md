@@ -1,14 +1,11 @@
--#About Me
-- 👋 Hi, I’m @Arxu
-- ##learning
-- 👀 I’m interested in ...Hacking...
-- 🌱 I’m currently learning ...Hacking..
-- ##Contact
-- 📫 How to reach me ...
-- Telegram: t.me/A0R3A 
-- I have experience of Phishing, DOS attack,Cam Hacking,Writing scripts...
-- That's all,,...
-<!---
-Arxuishere/Arxuishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ĀRXŪ 2.0 - Unleashing the Future of Code
+
+## Cybernetic Enthusiast 🌐 | Age: 16 🔮
+
+### Neural Manifestation
+Welcome to the cutting-edge realm of ĀRXŪ 2.0, where code converges with the future.
+
+### Quantum Contact
+- **Teleport via Telegram:** [t.me/A0R3A](https://t.me/A0R3A)
+
+Embark on this cybernetic journey, forging the code of tomorrow.
