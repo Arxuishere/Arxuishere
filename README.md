@@ -12,16 +12,18 @@ Welcome to the ĀRXŪ Quantum Code Nebula, a GUI-driven universe where code tran
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-&nbsp; This Is ARXU´&nbsp;
+&nbsp; This Is ARXU &nbsp;
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 #### A Small Developer and so called hacker ( TELEGRAM : https://t.me/A0R3A )
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+Brothers%2C+I'm+ARXU.+.;Follow+My+telegram;+Follow+My+GitHub;)](https://git.io/typing-svg)<br/>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm admin of TEAM ARXU. This is ARXU😄.If you want to contact me https://t.me/A0R3A, Check out my telegram channel about my work.
+    >
+</p>
 <br/>
-<br/>
-Skills: PYTHON & WEB DEFACE & WEB SITE DOWN 
+Skills: PYTHON & WEB DEFACE & DDOSER
 
 -I'm currently learning Python & Javascript 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>â€ƒ<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>â€ƒ<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>â€ƒ
