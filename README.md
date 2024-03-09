@@ -19,8 +19,7 @@ Welcome to the ĀRXŪ Quantum Code Nebula, a GUI-driven universe where code tran
 #### A Small Developer and so called hacker ( TELEGRAM : https://t.me/A0R3A )
 
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm admin of TEAM ARXU. This is ARXU😄.If you want to contact me https://t.me/A0R3A, Check out my telegram channel about my work.
-    >
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm admin of TEAM ARXU. This is ARXU😄.If you want to contact me https://t.me/A0R3A, Check out my telegram channel about my work./>
 </p>
 <br/>
 Skills: PYTHON & WEB DEFACE & DDOSER
