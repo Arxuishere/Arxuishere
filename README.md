@@ -17,10 +17,30 @@ Welcome to the ĀRXŪ Quantum Code Nebula, a GUI-driven universe where code tran
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 #### A Small Developer and so called hacker ( TELEGRAM : https://t.me/A0R3A )
+<p>
+Skills: PYTHON & WEB DEFACE & DDOSER
 
-<p align="center">
+-I'm currently learning Python & Javascript 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>â€ƒ<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>â€ƒ<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
-  <svg width="320" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arxuishere )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arxuishere )](https://github.com/anuraghazra/github-readme-stats)
+
+![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arxuishere&show_icons=true&theme=chartreuse-dark)  
+
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arxuishere&layout=compact&theme=chartreuse-dark" />
+
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+
+
+</p>
+
+
+
+<svg width="320" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-labelledby="cardTitle" role="img">
   <title id="cardTitle">Now playing on Spotify</title>
   <foreignObject width="320" height="100">
     <style>
@@ -188,31 +208,6 @@ Welcome to the ĀRXŪ Quantum Code Nebula, a GUI-driven universe where code tran
     </div>
   </foreignObject>
 </svg>
-</p>
-<br/>
-Skills: PYTHON & WEB DEFACE & DDOSER
-
--I'm currently learning Python & Javascript 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>â€ƒ<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>â€ƒ<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>â€ƒ
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arxuishere )](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arxuishere )](https://github.com/anuraghazra/github-readme-stats)
-
-![P4RVEJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arxuishere&show_icons=true&theme=chartreuse-dark)  
-
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Arxuishere&layout=compact&theme=chartreuse-dark" />
-
-
-<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
-
-
-</p>
-
-
-
-
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
