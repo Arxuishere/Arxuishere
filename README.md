@@ -18,9 +18,8 @@ Welcome to the ĀRXŪ Quantum Code Nebula, a GUI-driven universe where code tran
 
 #### CoNTACT ME ( TELEGRAM : https://t.me/TEAMARXU )
 <p>
-Skills: PROGRAMMER & WEB DEFACE & BUG HUNTER
+### Skills: **PROGRAMMER & WEB DEFACE & BUG HUNTER**
 
--I'm currently learning Python & Javascript 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>â€ƒ<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>â€ƒ<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>â€ƒ<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arxuishere )](https://github.com/ryo-ma/github-profile-trophy)
